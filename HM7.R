@@ -21,3 +21,7 @@ library(popbio)
 logi.hist.plot(EEDUC, EGENID_BIRTH)
 
 from the codes above i made a plot for my dependent and independent variable and also installed popbio and a made a hist plot for the variables. The his gave a nice graphical representation of gender, male and female and how they correlate with the educational level. Im just hoping to impress lol.
+
+Name: Zakaria Sule
+Homework 7
+Econometrics 
